@@ -1,0 +1,27 @@
+.panel-two {
+  border-radius: 0px 10px 10px 0px;
+  padding: 50px;
+}
+.hdr-txt {
+  font-size: 20px;
+  color: #484848;
+}
+.t-txt {
+  font-size: 19px;
+  color: #707070;
+  text-align: left;
+  margin-top: 30px;
+}
+.t-txt-two {
+  font-size: 19px;
+  color: #707070;
+  text-align: center;
+  margin-top: 40px;
+}
+.panel-two img {
+  width: 150px;
+  height: 55px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
